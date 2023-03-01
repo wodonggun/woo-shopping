@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 ```
+npm install
 npm install axios
 npm install react-google-login
 npm install zustand
